@@ -1,9 +1,9 @@
 PBO PERTEMUAN 4 — PHP 8+ / XAMPP
-1. Ekstrak folder PBO04_CRUD_Mahasiswa ke C:\xampp\htdocs\
+1. Ekstrak folder praktikum-04 ke C:\xampp\htdocs\
 2. Jalankan Apache dari XAMPP Control Panel.
-3. Buka http://localhost/PBO04_CRUD_Mahasiswa/index.php
-4. Tambah, tampil, edit, dan hapus mahasiswa.
-5. Buka http://localhost/PBO04_CRUD_Mahasiswa/demo_konsep.php
+3. Buka http://localhost/praktikum-04/index.php
+4. Tambah, tampil, edit, hapus, dan export data mahasiswa.
+5. Buka http://localhost/praktikum-04/demo_konsep.php
    untuk menguji constructor, overloading property/method, dan destructor.
 
 BERKAS
@@ -11,6 +11,7 @@ Mahasiswa.php       = class entity; constructor, destructor, magic methods
 DataMahasiswa.php   = class repository dengan method CRUD dan array
 index.php           = form HTML, controller, session, tabel
 demo_konsep.php     = demonstrasi magic methods dan siklus hidup object
+Export.php          = fitur export data Mahasiswa
 
 CATATAN:
 - PHP Session menyimpan object. require_once class HARUS sebelum session_start().
