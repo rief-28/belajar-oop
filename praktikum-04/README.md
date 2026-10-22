@@ -6,11 +6,11 @@
 5. Buka localhost/praktikum-04/demo_konsep.php untuk menguji constructor, overloading property/method, dan destructor.
 
 ## BERKAS
-# Mahasiswa.php		= class entity; constructor, destructor, magic methods
-# DataMahasiswa.php	= class repository dengan method CRUD dan array
-# index.php		= form HTML, controller, session, tabel
-# demo_konsep.php		= demonstrasi magic methods dan siklus hidup object
-# Export.php		= fitur export data Mahasiswa
+### Mahasiswa.php		= class entity; constructor, destructor, magic methods
+### DataMahasiswa.php	= class repository dengan method CRUD dan array
+### index.php		= form HTML, controller, session, tabel
+### demo_konsep.php		= demonstrasi magic methods dan siklus hidup object
+### Export.php		= fitur export data Mahasiswa
 
 ## CATATAN:
 - PHP Session menyimpan object. require_once class HARUS sebelum session_start().
