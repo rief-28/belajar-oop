@@ -1,1 +1,1 @@
-Praktikum pembelajran dati Mata Kuliah Pemrograman Berbasis Objek (PBO)
+Praktikum pembelajran Mata Kuliah Pemrograman Berbasis Objek (PBO)
